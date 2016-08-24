@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Me.Analyzer", "Source\Log4Me.Analyzer.csproj", "{F65B03E0-D837-4C05-9A61-4D18C6BD8BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{D324C0A0-6A9E-424F-8278-80A63C786366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65B03E0-D837-4C05-9A61-4D18C6BD8BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65B03E0-D837-4C05-9A61-4D18C6BD8BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65B03E0-D837-4C05-9A61-4D18C6BD8BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65B03E0-D837-4C05-9A61-4D18C6BD8BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D324C0A0-6A9E-424F-8278-80A63C786366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D324C0A0-6A9E-424F-8278-80A63C786366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D324C0A0-6A9E-424F-8278-80A63C786366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D324C0A0-6A9E-424F-8278-80A63C786366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cangrihack-w10:8080/tfs/ada%20framework
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Source\\Log4Me.Analyzer.csproj
+		SccProjectName1 = Source
+		SccLocalPath1 = Source
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+	EndGlobalSection
+EndGlobal
